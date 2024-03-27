@@ -11,6 +11,6 @@ Maziminds is a collective of great minds, each contributing their unique skills 
 Empowering individual developers to collaborate, innovate, and build exceptional things together.
 
 
-## Our Gammes
+## Our Games
 - [Brick Breaker](https://itch.io/embed-upload/9750952?color=333333)
 - [True Destination](https://itch.io/embed-upload/9808568?color=333333)
