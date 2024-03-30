@@ -12,5 +12,5 @@ Empowering individual developers to collaborate, innovate, and build exceptional
 
 
 ## Our Games
-- [Brick Breaker](https://itch.io/embed-upload/9750952?color=333333)
-- [True Destination](https://itch.io/embed-upload/9808568?color=333333)
+- [Brick Breaker](https://maziminds.itch.io/brick-breaker)
+- [True Destination](https://maziminds.itch.io/true-destination)
