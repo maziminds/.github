@@ -14,3 +14,4 @@ Empowering individual developers to collaborate, innovate, and build exceptional
 ## Our Games
 - [Brick Breaker](https://maziminds.itch.io/brick-breaker)
 - [True Destination](https://maziminds.itch.io/true-destination)
+- [Pow Pow](https://maziminds.itch.io/pow-pow)
