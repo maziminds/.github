@@ -13,6 +13,7 @@ Empowering individual developers to collaborate, innovate, and build exceptional
 ## Our Assets/Packages
 - [card-games-utils](https://www.npmjs.com/package/card-games-utils)
 - [laravel-gigapay](https://packagist.org/packages/mazimez/laravel-gigapay)
+- [case-ease](https://github.com/maziminds/card-ease)
 
 ## Our Games
 - [Brick Breaker](https://maziminds.itch.io/brick-breaker)
