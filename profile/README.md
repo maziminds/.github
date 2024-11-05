@@ -16,6 +16,6 @@ Empowering individual developers to collaborate, innovate, and build exceptional
 - [case-ease](https://github.com/maziminds/card-ease)
 
 ## Our Games
-- [Brick Breaker](https://maziminds.itch.io/brick-breaker)
-- [True Destination](https://maziminds.itch.io/true-destination)
+- [True Destination]([https://maziminds.itch.io/true-destination](https://play.google.com/store/apps/details?id=com.maziminds.truedestination))
+- [Spook or Treat]([https://maziminds.itch.io/brick-breaker](https://maziminds.itch.io/spook-or-treat))
 - [Pow Pow](https://maziminds.itch.io/pow-pow)
