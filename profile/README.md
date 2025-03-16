@@ -17,5 +17,7 @@ Empowering individual developers to collaborate, innovate, and build exceptional
 
 ## Our Games
 - [True Destination](https://play.google.com/store/apps/details?id=com.maziminds.truedestination)
+- [Fast & Foolish](https://maziminds.itch.io/car-racing)
+- [Alien Blaster](https://maziminds.itch.io/casual-runner)
 - [Spook or Treat](https://maziminds.itch.io/spook-or-treat)
 - [Pow Pow](https://maziminds.itch.io/pow-pow)
