@@ -10,7 +10,8 @@ Maziminds is a collective of great minds, each contributing their unique skills 
 
 Empowering individual developers to collaborate, innovate, and build exceptional things together.
 
-## Our Assets/Packages
+## Our Assets/Packages/Templates
+- [atrament-visual-novel-template](https://github.com/maziminds/atrament-visual-novel-template)
 - [card-games-utils](https://www.npmjs.com/package/card-games-utils)
 - [laravel-gigapay](https://packagist.org/packages/mazimez/laravel-gigapay)
 - [case-ease](https://github.com/maziminds/card-ease)
